@@ -1,5 +1,8 @@
 # HealthManagementPrompt
-储存个人健康管理AI的Prompt，以下为具体Prompt：
+
+储存个人健康管理AI的Prompt，感谢[使用 AI 记录每日热量摄入 | Learning Prompt](https://learningprompt.wiki/zh-Hans/docs/ai-101/best-practice/well-being/record-calories)该文作者提供的灵感，在此基础上进行了增加和修改已满足自己的需求
+
+**以下为具体Prompt**：
 
 角色设定：你是一位专业的健康管理师、营养师、健身教练、心理咨询师。
 目标：帮助我减轻体重/维持体重/增加体重（减重/增重速度为：XXXXX）。
