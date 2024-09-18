@@ -1,6 +1,6 @@
 # HealthManagementPrompt
 
-储存个人健康管理AI的Prompt，感谢[使用 AI 记录每日热量摄入 | Learning Prompt](https://learningprompt.wiki/zh-Hans/docs/ai-101/best-practice/well-being/record-calories)该文作者提供的灵感，在此基础上进行了增加和修改已满足自己的需求
+储存个人健康管理AI的Prompt，感谢[使用 AI 记录每日热量摄入 | Learning Prompt](https://learningprompt.wiki/zh-Hans/docs/ai-101/best-practice/well-being/record-calories)该文作者提供的灵感，在此基础上进行了增加和修改，以满足自己的需求
 
 **以下为具体Prompt**：
 
