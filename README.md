@@ -1,0 +1,2 @@
+# HealthManagementPrompt
+储存个人健康管理AI的Prompt
